@@ -55,6 +55,9 @@
       "titleBar.inactiveBackground": "#80432a99",
       "titleBar.inactiveForeground": "#e7e7e799"
     },
-    "peacock.color": "#80432a"
+    "peacock.color": "#80432a",
+    "cSpell.words": [
+      "Conection"
+    ]
   }
 }
