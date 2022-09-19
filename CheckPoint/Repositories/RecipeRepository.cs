@@ -1,6 +1,4 @@
-using System.Collections.Generic;
 using System.Data;
-using CheckPoint.Models;
 
 namespace CheckPoint.Repositories
 {
@@ -13,8 +11,6 @@ namespace CheckPoint.Repositories
             _db = db;
         }
 
-        internal List<Recipe> GetAll()
-        {
-    }
+        
   }
 }
